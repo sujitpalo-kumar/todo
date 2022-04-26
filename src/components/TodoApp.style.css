@@ -8,15 +8,10 @@
   flex-grow: 1;
 }
 
-.add-todo input,
-.add-todo button {
-  padding: 0.75rem;
-  border-radius: 0.25rem;
-}
 
 .add-todo button {
   color: white;
-  background-color: black;
+  background-color: greenyellow;
   font-weight: bold;
   cursor: pointer;
 }
